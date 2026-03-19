@@ -1,28 +1,46 @@
-I'm Swastik Gautam, a CSE student passionate about programming, AI, and building cool projects.
+ # Hi, I'm Swastik Gautam 👋
 
-🌱 Currently Learning
+## About Me
 
-Data Structures & Algorithms (C++)
+* B.Tech CSE student
+* Interested in Data Structures & Algorithms, AI, and Quant/Fintech systems
+* Currently building strong problem-solving foundations in C++
+* Exploring system-level Linux workflows and developer tooling
 
-Python & AI/ML
+## Current Focus
 
-Web Development
+* Data Structures and Algorithms in C++
+* STL mastery
+* Competitive programming fundamentals
+* Building clean GitHub projects
 
-🔧 Skills
+## Learning Goals
 
-C++
+* Reach strong internship-level coding ability
+* Build high-quality technical projects
+* Develop a profile suitable for fintech and high-performance engineering roles
 
-Python
+## Tech Stack
 
-Linux / Ubuntu
+* C++
+* Python (planned deeper exploration)
+* Linux
+* Git & GitHub
 
-🎯 Goals
+## Current Repositories
 
-Become an AI Engineer
+* DSA topic-wise solutions
+* Future project work in algorithmic systems
 
-Build real-world projects & trading algorithms
+## Long-Term Direction
 
-Get an internship next year
+Interested in:
 
- 
- 
+* Algorithmic problem solving
+* Performance-oriented engineering
+* AI systems
+* Financial technology
+
+## Connect
+
+Always learning, building, and improving.
